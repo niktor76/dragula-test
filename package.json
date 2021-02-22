@@ -1,0 +1,23 @@
+{
+  "name": "dragula-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "dependencies": {
+    "dragula": "^3.7.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niktor76/dragula-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/niktor76/dragula-test/issues"
+  },
+  "homepage": "https://github.com/niktor76/dragula-test#readme"
+}
